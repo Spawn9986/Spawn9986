@@ -5,7 +5,7 @@
 ### <div align="center">I'm Shawn, a JavaScript Full Stack Developer 👨‍💻 PostgreSQL | Express | React | Node (PERN) 🚀</div>  
   
 
-- 🔭 Currently in a 700+ Full Stack Developer Bootcamp (plus prep) through Galvanize Inc. (expected grad mid May).  
+- 🔭 Currently in a 700+ hrs (plus prep) Full Stack Developer Bootcamp through Galvanize Inc. (expected grad mid May).  
   
 
 - 🌱 I’m currently learning React  
