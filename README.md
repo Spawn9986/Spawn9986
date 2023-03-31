@@ -74,11 +74,14 @@
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spawn9986&show_icons=true&locale=en&layout=compact" alt="spawn9986" /></p>
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spawn9986&" alt="spawn9986" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=spawn9986&show_icons=true&locale=en" alt="spawn9986" /></td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spawn9986&show_icons=true&locale=en" alt="spawn9986" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spawn9986&" alt="spawn9986" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spawn9986&show_icons=true&locale=en&layout=compact" alt="spawn9986" /></p>
 
 <br/>  
 
