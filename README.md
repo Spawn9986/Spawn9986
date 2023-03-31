@@ -2,7 +2,7 @@
 <img src="https://github.com/Spawn9986/Spawn9986/blob/main/headergitlight.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Shawn, a JavaScript Full Stack Developer 👨‍💻 PostgreSQL | Express | React | Node (PERN) 🚀</div>  
+### <div align="center">I'm Shawn, a Full Stack Javascript Developer 👨‍💻 PostgreSQL | Express | React | Node (PERN) 🚀</div>  
   
 
 - 🔭 Currently in a 700+ hrs (plus prep) Full Stack Developer Bootcamp through Galvanize Inc. (expected grad mid May).  
