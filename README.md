@@ -5,10 +5,10 @@
 ### <div align="center">I'm Shawn, a Full Stack Javascript Developer 👨‍💻 PostgreSQL | Express | React | Node (PERN) 🚀</div>  
   
 
-- 🔭 Currently in a 700+ hrs (plus prep) Full Stack Developer Bootcamp through Galvanize Inc. and Zero to Mastery's Full Stack Web Dev Course Online  
+- 🔭 I have completed a 700+ hrs (plus prep) Full Stack Developer Bootcamp through Galvanize Inc. I am continuing my learning through various online platforms.
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently working to build on my bootcamp experience by taking a deeper dive into my previous learning as well as exploring tools of interest. 
   
 
 - 👨‍💻 All of my projects are available at https://noobtoimprove.wordpress.com/blog/  
