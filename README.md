@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at https://noobtoimprove.wordpress.com/blog/  
   
 
-- 📫 How to reach me scouch9986@gmail.com, message through Linkedin  
+- 📫 How to reach me scouch9986@gmail.com, <a href="https://www.linkedin.com/in/shawn-couch/">Linkedin</a> 
   
 
 <br/>  
